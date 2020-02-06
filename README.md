@@ -2,3 +2,7 @@
 A recreation of the 2D game with the same name, this Unity project adds a third dimension to the classic puzzle game.
 
 ![Screen1](Worlds%20Hardest%203D%20Game/Screens/Screen1.png)
+
+WASD to move, space to jump(new feature to the game) and hit the 'P' key to switch perspectives.
+
+![Screen2](Worlds%20Hardest%203D%20Game/Screens/Screen2.png)
